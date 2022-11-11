@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://media.rss.com/style.xsl"?>
+<rss xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
+  <channel>
+    <title><![CDATA[tts]]></title>
+    <link>https://rss.com/podcasts/tts-feed</link>
+    <atom:link href="https://media.rss.com/tts-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link rel="hub" href="https://hub.livewire.io/"/>
+    <description><![CDATA[tts]]></description>
+    <generator>RSS.com v2.2.2</generator>
+    <lastBuildDate>Thu, 10 Nov 2022 15:39:34 GMT</lastBuildDate>
+    <language>en</language>
+    <copyright><![CDATA[None]]></copyright>
+    <itunes:image href="https://media.rss.com/tts-feed/20221110_031131_c6a323d02d7c06b6a4ae52872298bd53.jpg"/>
+    <image>
+      <url>https://media.rss.com/tts-feed/20221110_031131_c6a323d02d7c06b6a4ae52872298bd53.jpg</url>
+      <title>tts</title>
+      <link>https://rss.com/podcasts/tts-feed</link>
+    </image>
+    <itunes:summary><![CDATA[tts]]></itunes:summary>
+    <podcast:locked owner="chengxuyuanfei@gmail.com">yes</podcast:locked>
+    <itunes:author>faycheng</itunes:author>
+    <itunes:owner>
+      <itunes:name>faycheng</itunes:name>
+      <itunes:email>chengxuyuanfei@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Education"/>
+    <item>
+      <title><![CDATA[youtube]]></title>
+      <itunes:title><![CDATA[youtube]]></itunes:title>
+      <itunes:summary><![CDATA[<p>youtube</p>]]></itunes:summary>
+      <description><![CDATA[<p>youtube</p>]]></description>
+      <link>https://rss.com/podcasts/tts-feed/690679</link>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/tts/os3/OS3%201.3.wav"
+                 type="audio/wav"/>
+      <guid isPermaLink="false">87cc5063-3950-48c2-b22f-7d8ed9f07445</guid>
+      <itunes:image href="https://media.rss.com/tts-feed/20221110_031131_c6a323d02d7c06b6a4ae52872298bd53.jpg"/>
+    </item>
+  </channel>
+</rss>
