@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>english fluent</title>
+    <itunes:owner>
+        <itunes:email>chengxuyuanfei@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>Fay Cheng</itunes:author>
+    <description>english fluent</description>
+    <itunes:image href="https://raw.githubusercontent.com/faycheng/podcasts/main/logo.png"/>
+    <language>en-us</language>
+    <link>https://github.com/faycheng/podcasts</link>
+    
+    <item>
+      <title>English Listening Practice How to Understand Movies Without Subtitles.m4a</title>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/english%20fluent/English%20Listening%20Practice%20How%20to%20Understand%20Movies%20Without%20Subtitles.m4a"
+                 type="audio/m4a"/>
+    </item>
+    
+    <item>
+      <title>English Pronunciation Practice 2 Things You MUST Know [TubeRipper.com].m4a</title>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/english%20fluent/English%20Pronunciation%20Practice%202%20Things%20You%20MUST%20Know%20.m4a"
+                 type="audio/m4a"/>
+    </item>
+    
+    <item>
+      <title>English Speaking Practice (very easy to do) [TubeRipper.com].m4a</title>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/english%20fluent/English%20Speaking%20Practice%20(very%20easy%20to%20do)%20.m4a"
+                 type="audio/m4a"/>
+    </item>
+    
+    <item>
+      <title>How to Improve English Writing Skills (without studying grammar) [TubeRipper.com].m4a</title>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/english%20fluent/How%20to%20Improve%20English%20Writing%20Skills%20(without%20studying%20grammar)%20.m4a"
+                 type="audio/m4a"/>
+    </item>
+    
+    <item>
+      <title>How to Improve Your English Pronunciation (The First Thing You Must Do) [TubeRipper.com].m4a</title>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/english%20fluent/How%20to%20Improve%20Your%20English%20Pronunciation%20(The%20First%20Thing%20You%20Must%20Do)%20.m4a"
+                 type="audio/m4a"/>
+    </item>
+    
+    <item>
+      <title>How to Learn English with Movies (New Technique) [TubeRipper.com].m4a</title>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/english%20fluent/How%20to%20Learn%20English%20with%20Movies%20(New%20Technique)%20.m4a"
+                 type="audio/m4a"/>
+    </item>
+    
+    <item>
+      <title>How to improve your English speaking skills (by yourself) [TubeRipper.com].m4a</title>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/english%20fluent/How%20to%20improve%20your%20English%20speaking%20skills%20(by%20yourself)%20.m4a"
+                 type="audio/m4a"/>
+    </item>
+    
+    <item>
+      <title>How to practice English listening skills (without spending extra time) [TubeRipper.com].m4a</title>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/english%20fluent/How%20to%20practice%20English%20listening%20skills%20(without%20spending%20extra%20time)%20.m4a"
+                 type="audio/m4a"/>
+    </item>
+    
+    <item>
+      <title>How to remember English vocabulary [TubeRipper.com].m4a</title>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/english%20fluent/How%20to%20remember%20English%20vocabulary%20.m4a"
+                 type="audio/m4a"/>
+    </item>
+    
+    <item>
+      <title>Sorry For My Bad English [TubeRipper.com].m4a</title>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/english%20fluent/Sorry%20For%20My%20Bad%20English%20.m4a"
+                 type="audio/m4a"/>
+    </item>
+    
+    <item>
+      <title>The Right Way to Learn to Speak English [TubeRipper.com].m4a</title>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/english%20fluent/The%20Right%20Way%20to%20Learn%20to%20Speak%20English%20.m4a"
+                 type="audio/m4a"/>
+    </item>
+    
+    <item>
+      <title>The best way to improve your English vocabulary [TubeRipper.com].m4a</title>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/english%20fluent/The%20best%20way%20to%20improve%20your%20English%20vocabulary%20.m4a"
+                 type="audio/m4a"/>
+    </item>
+    
+    <item>
+      <title>The wrong way to improve your English listening skills [TubeRipper.com].m4a</title>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/english%20fluent/The%20wrong%20way%20to%20improve%20your%20English%20listening%20skills%20.m4a"
+                 type="audio/m4a"/>
+    </item>
+    
+  </channel>
+</rss>
