@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>12hours</title>
+    <itunes:owner>
+        <itunes:email>chengxuyuanfei@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>Fay Cheng</itunes:author>
+    <description>12hours</description>
+    <itunes:image href="https://raw.githubusercontent.com/faycheng/podcasts/main/logo.png"/>
+    <language>en-us</language>
+    <link>https://github.com/faycheng/podcasts</link>
+    
+  </channel>
+</rss>
