@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>how languages are learned</title>
+    <itunes:owner>
+        <itunes:email>chengxuyuanfei@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>Fay Cheng</itunes:author>
+    <description>how languages are learned</description>
+    <itunes:image href="https://raw.githubusercontent.com/faycheng/podcasts/main/logo.png"/>
+    <language>en-us</language>
+    <link>https://github.com/faycheng/podcasts</link>
+    
+    <item>
+      <title>how languages are learned 01.wav</title>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/tts/how%20languages%20are%20learned/how%20languages%20are%20learned%2001.wav"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>how languages are learned 02.wav</title>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/tts/how%20languages%20are%20learned/how%20languages%20are%20learned%2002.wav"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>how languages are learned 03.wav</title>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/tts/how%20languages%20are%20learned/how%20languages%20are%20learned%2003.wav"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>how languages are learned 04.wav</title>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/tts/how%20languages%20are%20learned/how%20languages%20are%20learned%2004.wav"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>how languages are learned 05.wav</title>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/tts/how%20languages%20are%20learned/how%20languages%20are%20learned%2005.wav"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>how languages are learned 06.wav</title>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/tts/how%20languages%20are%20learned/how%20languages%20are%20learned%2006.wav"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>how languages are learned 07.wav</title>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/tts/how%20languages%20are%20learned/how%20languages%20are%20learned%2007.wav"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>how languages are learned 08.wav</title>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/tts/how%20languages%20are%20learned/how%20languages%20are%20learned%2008.wav"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>how languages are learned 09.wav</title>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/tts/how%20languages%20are%20learned/how%20languages%20are%20learned%2009.wav"
+                 type="audio/mpeg"/>
+    </item>
+    
+  </channel>
+</rss>
