@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Greetings and Goodbyes</title>
+    <itunes:owner>
+        <itunes:email>chengxuyuanfei@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>Fay Cheng</itunes:author>
+    <description>Greetings and Goodbyes</description>
+    <itunes:image href="https://raw.githubusercontent.com/faycheng/podcasts/main/logo.png"/>
+    <language>en-us</language>
+    <link>https://github.com/faycheng/podcasts</link>
+    
+    <item>
+      <title>1 - Greetings.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:41:43 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/Greetings%20and%20Goodbyes/1%20-%20Greetings.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>2 - How Was Your Weekend?.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:41:44 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/Greetings%20and%20Goodbyes/2%20-%20How%20Was%20Your%20Weekend?.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>3 - Are You Susan?.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:41:45 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/Greetings%20and%20Goodbyes/3%20-%20Are%20You%20Susan?.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>4 - Glad to Meet You.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:41:46 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/Greetings%20and%20Goodbyes/4%20-%20Glad%20to%20Meet%20You.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>5 - My Name Is Ann.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:41:47 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/Greetings%20and%20Goodbyes/5%20-%20My%20Name%20Is%20Ann.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>6 - She Is My Friend.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:41:48 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/Greetings%20and%20Goodbyes/6%20-%20She%20Is%20My%20Friend.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>7 - I Am Going Home.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:41:49 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/Greetings%20and%20Goodbyes/7%20-%20I%20Am%20Going%20Home.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>8 - Is This Your Coat?.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:41:50 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/Greetings%20and%20Goodbyes/8%20-%20Is%20This%20Your%20Coat?.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+  </channel>
+</rss>
