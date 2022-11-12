@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Eating Out</title>
+    <itunes:owner>
+        <itunes:email>chengxuyuanfei@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>Fay Cheng</itunes:author>
+    <description>Eating Out</description>
+    <itunes:image href="https://raw.githubusercontent.com/faycheng/podcasts/main/logo.png"/>
+    <language>en-us</language>
+    <link>https://github.com/faycheng/podcasts</link>
+    
+    <item>
+      <title>1 - Where Is the Restaurant?.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:40:46 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/Eating%20Out/1%20-%20Where%20Is%20the%20Restaurant?.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>2 - When Does It Open?.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:40:47 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/Eating%20Out/2%20-%20When%20Does%20It%20Open?.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>3 - It's a good restaurant.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:40:48 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/Eating%20Out/3%20-%20It's%20a%20good%20restaurant.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>4 - This is a sports bar.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:40:49 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/Eating%20Out/4%20-%20This%20is%20a%20sports%20bar.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>5 - I will have a beer.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:40:50 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/Eating%20Out/5%20-%20I%20will%20have%20a%20beer.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>6 - I usually cook at home.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:40:51 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/Eating%20Out/6%20-%20I%20usually%20cook%20at%20home.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>7 - What Do You Cook?.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:40:52 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/Eating%20Out/7%20-%20What%20Do%20You%20Cook?.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>8 - I will have roast chicken.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:40:53 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/Eating%20Out/8%20-%20I%20will%20have%20roast%20chicken.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>9 - My uncle worked for a large company.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:40:54 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/Eating%20Out/9%20-%20My%20uncle%20worked%20for%20a%20large%20company.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>10 - Are you from the East?.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:40:55 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/Eating%20Out/10%20-%20Are%20you%20from%20the%20East?.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>11 - Do you enjoy your job?.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:40:56 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/Eating%20Out/11%20-%20Do%20you%20enjoy%20your%20job?.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>12 - You Should Change Jobs.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:40:57 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/Eating%20Out/12%20-%20You%20Should%20Change%20Jobs.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>13 - I Have to Work a Long Day.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:40:58 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/Eating%20Out/13%20-%20I%20Have%20to%20Work%20a%20Long%20Day.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>14 - Please Bring Us the Bill.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:40:59 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/Eating%20Out/14%20-%20Please%20Bring%20Us%20the%20Bill.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+  </channel>
+</rss>
