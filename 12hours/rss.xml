@@ -7,6 +7,7 @@
         <itunes:email>chengxuyuanfei@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:author>Fay Cheng</itunes:author>
+    <itunes:type>serial</itunes:type>
     <description>12hours</description>
     <itunes:image href="https://raw.githubusercontent.com/faycheng/podcasts/main/logo.png"/>
     <language>en-us</language>
