@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>LingQ Mini Stories - Canadian English</title>
+    <itunes:owner>
+        <itunes:email>chengxuyuanfei@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>Fay Cheng</itunes:author>
+    <description>LingQ Mini Stories - Canadian English</description>
+    <itunes:image href="https://raw.githubusercontent.com/faycheng/podcasts/main/logo.png"/>
+    <language>en-us</language>
+    <link>https://github.com/faycheng/podcasts</link>
+    
+    <item>
+      <title>1 - Mike is a Cook.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:42:53 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/1%20-%20Mike%20is%20a%20Cook.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>2 - Dustin Wants to Take a Vacation.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:42:54 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/2%20-%20Dustin%20Wants%20to%20Take%20a%20Vacation.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>3 - Karen Gets a Cat.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:42:55 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/3%20-%20Karen%20Gets%20a%20Cat.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>4 - My Daughter Is a Good Student.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:42:56 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/4%20-%20My%20Daughter%20Is%20a%20Good%20Student.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>5 - Jon Has Lots of Homework.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:42:57 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/5%20-%20Jon%20Has%20Lots%20of%20Homework.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>6 - Jane and Fred's Night Routine.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:42:58 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/6%20-%20Jane%20and%20Fred's%20Night%20Routine.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>7 - James in the Office.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:42:59 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/7%20-%20James%20in%20the%20Office.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>8 - Lisa Goes Shoe Shopping.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:00 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/8%20-%20Lisa%20Goes%20Shoe%20Shopping.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>9 - New Girlfriend.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:01 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/9%20-%20New%20Girlfriend.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>10 - Birthday Party.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:02 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/10%20-%20Birthday%20Party.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>11 - Brad Searches for a New Apartment.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:03 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/11%20-%20Brad%20Searches%20for%20a%20New%20Apartment.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>12 - Janet Buys a New Computer.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:04 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/12%20-%20Janet%20Buys%20a%20New%20Computer.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>13 - Kimi Goes on a Date with Saul.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:05 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/13%20-%20Kimi%20Goes%20on%20a%20Date%20with%20Saul.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>14 - Kelly Goes to a Dance Class.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:06 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/14%20-%20Kelly%20Goes%20to%20a%20Dance%20Class.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>15 - Mara and Emily Exercise.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:07 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/15%20-%20Mara%20and%20Emily%20Exercise.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>16 - A More Exciting Job.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:08 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/16%20-%20A%20More%20Exciting%20Job.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>17 - On the Highway.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:09 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/17%20-%20On%20the%20Highway.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>18 - Getting Dressed.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:10 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/18%20-%20Getting%20Dressed.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>19 - It's Time for Lunch.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:11 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/19%20-%20It's%20Time%20for%20Lunch.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>20 - Going to Work.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:12 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/20%20-%20Going%20to%20Work.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>21 - Jerry Wants to See a Movie.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:13 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/21%20-%20Jerry%20Wants%20to%20See%20a%20Movie.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>22 - Emma Is Sick.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:14 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/22%20-%20Emma%20Is%20Sick.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>23 - Exam or Party?.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:15 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/23%20-%20Exam%20or%20Party?.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>24 - New Job.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:16 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/24%20-%20New%20Job.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>25 - The New Baby.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:17 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/25%20-%20The%20New%20Baby.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>26 - Alex and His Room.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:18 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/26%20-%20Alex%20and%20His%20Room.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>27 - Bill On a Trip.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:19 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/27%20-%20Bill%20On%20a%20Trip.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>28 - Stella in a New Country.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:20 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/28%20-%20Stella%20in%20a%20New%20Country.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>29 - Layne and Cooking.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:21 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/29%20-%20Layne%20and%20Cooking.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>30 - James on Saturdays.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:22 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/30%20-%20James%20on%20Saturdays.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>31 - Rosie Visits Her Friend for Dinner.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:23 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/31%20-%20Rosie%20Visits%20Her%20Friend%20for%20Dinner.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>32 - Sara Makes Breakfast for her Family.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:24 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/32%20-%20Sara%20Makes%20Breakfast%20for%20her%20Family.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>33 - Eric Was in Class at University.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:25 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/33%20-%20Eric%20Was%20in%20Class%20at%20University.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>34 - Tom Has Dinner With His Friends.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:26 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/34%20-%20Tom%20Has%20Dinner%20With%20His%20Friends.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>35 - A Dog Called Max.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:27 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/35%20-%20A%20Dog%20Called%20Max.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>36 - Phil's Big Family.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:28 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/36%20-%20Phil's%20Big%20Family.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>37 - Adam's Schedule.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:29 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/37%20-%20Adam's%20Schedule.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>38 - Sasha and Jen's Favourite Actors.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:30 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/38%20-%20Sasha%20and%20Jen's%20Favourite%20Actors.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>39 - Adrian's Favourite Singer.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:31 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/39%20-%20Adrian's%20Favourite%20Singer.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>40 - Sharon Has a Big Family.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:32 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/40%20-%20Sharon%20Has%20a%20Big%20Family.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>41 - Allen is at a Restaurant.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:33 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/41%20-%20Allen%20is%20at%20a%20Restaurant.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>42 - A New Dog.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:34 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/42%20-%20A%20New%20Dog.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>43 - Ben and His Schedule.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:35 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/43%20-%20Ben%20and%20His%20Schedule.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>44 - Martin Lives Alone.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:36 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/44%20-%20Martin%20Lives%20Alone.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>45 - Tony Has Been Hiking.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:37 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/45%20-%20Tony%20Has%20Been%20Hiking.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>46 - Lin Is Nervous About Her Presentation.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:38 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/46%20-%20Lin%20Is%20Nervous%20About%20Her%20Presentation.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>47 - Jessica Has a Problem at Work.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:39 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/47%20-%20Jessica%20Has%20a%20Problem%20at%20Work.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>48 - University or Online Courses.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:40 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/48%20-%20University%20or%20Online%20Courses.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>49 - Trying To Go To Sleep.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:41 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/49%20-%20Trying%20To%20Go%20To%20Sleep.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>50 - University Schedule.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:42 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/50%20-%20University%20Schedule.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>51 - New MP3 Player.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:43 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/51%20-%20New%20MP3%20Player.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>52 - My Grandaughter Had a Baby!.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:44 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/52%20-%20My%20Grandaughter%20Had%20a%20Baby!.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>53 - Wrestling Competition.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:45 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/53%20-%20Wrestling%20Competition.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>54 - Mariah at the Park.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:46 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/54%20-%20Mariah%20at%20the%20Park.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>55 - A New Home.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:47 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/55%20-%20A%20New%20Home.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>56 - Margaret Makes a Business Decision.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:48 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/56%20-%20Margaret%20Makes%20a%20Business%20Decision.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>57 - Bill In Traffic.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:49 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/57%20-%20Bill%20In%20Traffic.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>58 - Sam And Betty Enjoy Going Out.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:50 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/58%20-%20Sam%20And%20Betty%20Enjoy%20Going%20Out.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>59 - Mary Likes to Read.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:51 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/59%20-%20Mary%20Likes%20to%20Read.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+    <item>
+      <title>60 - Anne Should Take an Umbrella.mp3</title>
+      <pubDate>Sat, 12 Nov 2022 11:43:52 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/lingq/LingQ%20Mini%20Stories%20-%20Canadian%20English/60%20-%20Anne%20Should%20Take%20an%20Umbrella.mp3"
+                 type="audio/mpeg"/>
+    </item>
+    
+  </channel>
+</rss>
