@@ -14,43 +14,120 @@
     
     <item>
       <title>pulsar vs kafka 1.0.wav</title>
-      <pubDate>Sat, 12 Nov 2022 04:10:04 +0000</pubDate>
+      <pubDate>Mon, 14 Nov 2022 09:03:31 +0000</pubDate>
       <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/tts/pulsar%20vs%20kafka/pulsar%20vs%20kafka%201.0.wav"
                  type="audio/wav"/>
     </item>
     
     <item>
       <title>pulsar vs kafka 1.1.wav</title>
-      <pubDate>Sat, 12 Nov 2022 04:10:05 +0000</pubDate>
+      <pubDate>Mon, 14 Nov 2022 09:03:32 +0000</pubDate>
       <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/tts/pulsar%20vs%20kafka/pulsar%20vs%20kafka%201.1.wav"
                  type="audio/wav"/>
     </item>
     
     <item>
       <title>pulsar vs kafka 1.2.wav</title>
-      <pubDate>Sat, 12 Nov 2022 04:10:06 +0000</pubDate>
+      <pubDate>Mon, 14 Nov 2022 09:03:33 +0000</pubDate>
       <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/tts/pulsar%20vs%20kafka/pulsar%20vs%20kafka%201.2.wav"
                  type="audio/wav"/>
     </item>
     
     <item>
       <title>pulsar vs kafka 1.3.wav</title>
-      <pubDate>Sat, 12 Nov 2022 04:10:07 +0000</pubDate>
+      <pubDate>Mon, 14 Nov 2022 09:03:34 +0000</pubDate>
       <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/tts/pulsar%20vs%20kafka/pulsar%20vs%20kafka%201.3.wav"
                  type="audio/wav"/>
     </item>
     
     <item>
       <title>pulsar vs kafka 1.4.wav</title>
-      <pubDate>Sat, 12 Nov 2022 04:10:08 +0000</pubDate>
+      <pubDate>Mon, 14 Nov 2022 09:03:35 +0000</pubDate>
       <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/tts/pulsar%20vs%20kafka/pulsar%20vs%20kafka%201.4.wav"
                  type="audio/wav"/>
     </item>
     
     <item>
       <title>pulsar vs kafka 1.5.wav</title>
-      <pubDate>Sat, 12 Nov 2022 04:10:09 +0000</pubDate>
+      <pubDate>Mon, 14 Nov 2022 09:03:36 +0000</pubDate>
       <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/tts/pulsar%20vs%20kafka/pulsar%20vs%20kafka%201.5.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>pulsar vs kafka 2.0.wav</title>
+      <pubDate>Mon, 14 Nov 2022 09:03:37 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/tts/pulsar%20vs%20kafka/pulsar%20vs%20kafka%202.0.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>pulsar vs kafka 2.1.wav</title>
+      <pubDate>Mon, 14 Nov 2022 09:03:38 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/tts/pulsar%20vs%20kafka/pulsar%20vs%20kafka%202.1.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>pulsar vs kafka 2.2.wav</title>
+      <pubDate>Mon, 14 Nov 2022 09:03:39 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/tts/pulsar%20vs%20kafka/pulsar%20vs%20kafka%202.2.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>pulsar vs kafka 2.3.wav</title>
+      <pubDate>Mon, 14 Nov 2022 09:03:40 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/tts/pulsar%20vs%20kafka/pulsar%20vs%20kafka%202.3.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>pulsar vs kafka 2.4.wav</title>
+      <pubDate>Mon, 14 Nov 2022 09:03:41 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/tts/pulsar%20vs%20kafka/pulsar%20vs%20kafka%202.4.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>pulsar vs kafka 3.0.wav</title>
+      <pubDate>Mon, 14 Nov 2022 09:03:42 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/tts/pulsar%20vs%20kafka/pulsar%20vs%20kafka%203.0.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>pulsar vs kafka 3.1.wav</title>
+      <pubDate>Mon, 14 Nov 2022 09:03:43 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/tts/pulsar%20vs%20kafka/pulsar%20vs%20kafka%203.1.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>pulsar vs kafka 3.3.wav</title>
+      <pubDate>Mon, 14 Nov 2022 09:03:44 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/tts/pulsar%20vs%20kafka/pulsar%20vs%20kafka%203.3.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>pulsar vs kafka 4.0.wav</title>
+      <pubDate>Mon, 14 Nov 2022 09:03:45 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/tts/pulsar%20vs%20kafka/pulsar%20vs%20kafka%204.0.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>pulsar vs kafka 4.1.wav</title>
+      <pubDate>Mon, 14 Nov 2022 09:03:46 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/tts/pulsar%20vs%20kafka/pulsar%20vs%20kafka%204.1.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>pulsar vs kafka 4.2.wav</title>
+      <pubDate>Mon, 14 Nov 2022 09:03:47 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/tts/pulsar%20vs%20kafka/pulsar%20vs%20kafka%204.2.wav"
                  type="audio/wav"/>
     </item>
     
