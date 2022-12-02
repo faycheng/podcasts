@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>build a second brain</title>
+    <itunes:owner>
+        <itunes:email>chengxuyuanfei@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>Fay Cheng</itunes:author>
+    <description>build a second brain</description>
+    <itunes:image href="https://raw.githubusercontent.com/faycheng/podcasts/main/logo.png"/>
+    <language>en-us</language>
+    <link>https://github.com/faycheng/podcasts</link>
+    
+    <item>
+      <title>build-a-second-brain-1.wav</title>
+      <pubDate>Fri, 02 Dec 2022 07:26:41 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/tts/build%20a%20second%20brain/build-a-second-brain-1.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>build-a-second-brain-2.wav</title>
+      <pubDate>Fri, 02 Dec 2022 07:26:42 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/tts/build%20a%20second%20brain/build-a-second-brain-2.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>build-a-second-brain-3.wav</title>
+      <pubDate>Fri, 02 Dec 2022 07:26:43 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/tts/build%20a%20second%20brain/build-a-second-brain-3.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>build-a-second-brain-4.wav</title>
+      <pubDate>Fri, 02 Dec 2022 07:26:44 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/tts/build%20a%20second%20brain/build-a-second-brain-4.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>build-a-second-brain-5.wav</title>
+      <pubDate>Fri, 02 Dec 2022 07:26:45 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/tts/build%20a%20second%20brain/build-a-second-brain-5.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>build-a-second-brain-6.wav</title>
+      <pubDate>Fri, 02 Dec 2022 07:26:46 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/tts/build%20a%20second%20brain/build-a-second-brain-6.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>build-a-second-brain-7.wav</title>
+      <pubDate>Fri, 02 Dec 2022 07:26:47 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/tts/build%20a%20second%20brain/build-a-second-brain-7.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>build-a-second-brain-8.wav</title>
+      <pubDate>Fri, 02 Dec 2022 07:26:48 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/tts/build%20a%20second%20brain/build-a-second-brain-8.wav"
+                 type="audio/wav"/>
+    </item>
+    
+  </channel>
+</rss>
