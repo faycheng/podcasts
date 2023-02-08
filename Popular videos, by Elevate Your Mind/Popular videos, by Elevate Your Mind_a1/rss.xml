@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Popular videos, by Elevate Your Mind_a1</title>
+    <itunes:owner>
+        <itunes:email>chengxuyuanfei@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>Fay Cheng</itunes:author>
+    <description>Popular videos, by Elevate Your Mind_a1</description>
+    <itunes:image href="https://raw.githubusercontent.com/faycheng/podcasts/main/logo.png"/>
+    <language>en-us</language>
+    <link>https://github.com/faycheng/podcasts</link>
+    
+    <item>
+      <title>10 Habits That Are Destroying Your Confidence.wav</title>
+      <pubDate>Wed, 08 Feb 2023 08:09:38 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/Popular%20videos,%20by%20Elevate%20Your%20Mind/Popular%20videos,%20by%20Elevate%20Your%20Mind_a1/10%20Habits%20That%20Are%20Destroying%20Your%20Confidence.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>10 Signs Someone's Playing Mind Games With You.wav</title>
+      <pubDate>Wed, 08 Feb 2023 08:09:39 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/Popular%20videos,%20by%20Elevate%20Your%20Mind/Popular%20videos,%20by%20Elevate%20Your%20Mind_a1/10%20Signs%20Someone's%20Playing%20Mind%20Games%20With%20You.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>10 Signs Your Partner Doesn't Love You (Even If You Think They Do).wav</title>
+      <pubDate>Wed, 08 Feb 2023 08:09:40 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/Popular%20videos,%20by%20Elevate%20Your%20Mind/Popular%20videos,%20by%20Elevate%20Your%20Mind_a1/10%20Signs%20Your%20Partner%20Doesn't%20Love%20You%20(Even%20If%20You%20Think%20They%20Do).wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>12 Phrases Emotionally Intelligent People Don’t Say.wav</title>
+      <pubDate>Wed, 08 Feb 2023 08:09:41 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/Popular%20videos,%20by%20Elevate%20Your%20Mind/Popular%20videos,%20by%20Elevate%20Your%20Mind_a1/12%20Phrases%20Emotionally%20Intelligent%20People%20Don’t%20Say.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>20 Signs of a Low Value Person (SELF CHECK).wav</title>
+      <pubDate>Wed, 08 Feb 2023 08:09:42 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/Popular%20videos,%20by%20Elevate%20Your%20Mind/Popular%20videos,%20by%20Elevate%20Your%20Mind_a1/20%20Signs%20of%20a%20Low%20Value%20Person%20(SELF%20CHECK).wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>Boost Your Confidence: 9 Tips That Work.wav</title>
+      <pubDate>Wed, 08 Feb 2023 08:09:43 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/Popular%20videos,%20by%20Elevate%20Your%20Mind/Popular%20videos,%20by%20Elevate%20Your%20Mind_a1/Boost%20Your%20Confidence:%209%20Tips%20That%20Work.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>Mastering Communication and Conflict Resolution: Secrets to Building Strong Relationships.wav</title>
+      <pubDate>Wed, 08 Feb 2023 08:09:44 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/Popular%20videos,%20by%20Elevate%20Your%20Mind/Popular%20videos,%20by%20Elevate%20Your%20Mind_a1/Mastering%20Communication%20and%20Conflict%20Resolution:%20Secrets%20to%20Building%20Strong%20Relationships.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>Why Fighting for Someone's Attention is a Losing Battle 10 Reasons to Stop.wav</title>
+      <pubDate>Wed, 08 Feb 2023 08:09:45 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/Popular%20videos,%20by%20Elevate%20Your%20Mind/Popular%20videos,%20by%20Elevate%20Your%20Mind_a1/Why%20Fighting%20for%20Someone's%20Attention%20is%20a%20Losing%20Battle%2010%20Reasons%20to%20Stop.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>You Don't Find Happiness, You Create It.wav</title>
+      <pubDate>Wed, 08 Feb 2023 08:09:46 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/Popular%20videos,%20by%20Elevate%20Your%20Mind/Popular%20videos,%20by%20Elevate%20Your%20Mind_a1/You%20Don't%20Find%20Happiness,%20You%20Create%20It.wav"
+                 type="audio/wav"/>
+    </item>
+    
+  </channel>
+</rss>
