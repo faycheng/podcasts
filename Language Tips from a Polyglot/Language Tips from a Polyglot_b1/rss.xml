@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Language Tips from a Polyglot_b1</title>
+    <itunes:owner>
+        <itunes:email>chengxuyuanfei@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>Fay Cheng</itunes:author>
+    <description>Language Tips from a Polyglot_b1</description>
+    <itunes:image href="https://raw.githubusercontent.com/faycheng/podcasts/main/logo.png"/>
+    <language>en-us</language>
+    <link>https://github.com/faycheng/podcasts</link>
+    
+    <item>
+      <title>How to learn Japanese by watching ANIME🇯🇵.wav</title>
+      <pubDate>Wed, 08 Feb 2023 08:09:03 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/Language%20Tips%20from%20a%20Polyglot/Language%20Tips%20from%20a%20Polyglot_b1/How%20to%20learn%20Japanese%20by%20watching%20ANIME🇯🇵.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>Polyglot speaking FLUENTLY in 4 languages | Japanese,Turkish,English,German🇯🇵🇹🇷🇩🇪🇺🇸🇬🇧.wav</title>
+      <pubDate>Wed, 08 Feb 2023 08:09:04 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/Language%20Tips%20from%20a%20Polyglot/Language%20Tips%20from%20a%20Polyglot_b1/Polyglot%20speaking%20FLUENTLY%20in%204%20languages%20|%20Japanese,Turkish,English,German🇯🇵🇹🇷🇩🇪🇺🇸🇬🇧.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>why you understand English but CAN'T speak fluently.wav</title>
+      <pubDate>Wed, 08 Feb 2023 08:09:05 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/Language%20Tips%20from%20a%20Polyglot/Language%20Tips%20from%20a%20Polyglot_b1/why%20you%20understand%20English%20but%20CAN'T%20speak%20fluently.wav"
+                 type="audio/wav"/>
+    </item>
+    
+  </channel>
+</rss>
