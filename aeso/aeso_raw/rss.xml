@@ -1,0 +1,1024 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>aeso_raw</title>
+    <itunes:owner>
+        <itunes:email>chengxuyuanfei@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>Fay Cheng</itunes:author>
+    <description>aeso_raw</description>
+    <itunes:image href="https://raw.githubusercontent.com/faycheng/podcasts/main/logo.png"/>
+    <language>en-us</language>
+    <link>https://github.com/faycheng/podcasts</link>
+    
+    <item>
+      <title>A Raven & a Swan.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:16 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/A%20Raven%20&%20a%20Swan.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>Belling the Cat.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:17 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/Belling%20the%20Cat.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>Hercules & the Wagoner.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:18 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/Hercules%20&%20the%20Wagoner.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>Jupiter & the Monkey.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:19 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/Jupiter%20&%20the%20Monkey.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>Mercury & the Woodman.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:20 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/Mercury%20&%20the%20Woodman.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Animals & the Plague.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:21 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Animals%20&%20the%20Plague.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Ant & the Dove.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:22 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Ant%20&%20the%20Dove.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Ants & the Grasshopper.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:23 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Ants%20&%20the%20Grasshopper.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Ass & His Driver.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:24 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Ass%20&%20His%20Driver.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Ass & His Shadow.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:25 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Ass%20&%20His%20Shadow.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Ass & the Grasshoppers.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:26 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Ass%20&%20the%20Grasshoppers.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Ass & the Lap Dog.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:27 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Ass%20&%20the%20Lap%20Dog.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Ass & the Load of Salt.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:28 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Ass%20&%20the%20Load%20of%20Salt.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Ass Carrying the Image.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:29 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Ass%20Carrying%20the%20Image.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Ass in the Lion's Skin.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:30 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Ass%20in%20the%20Lion's%20Skin.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Ass, the Fox, & the Lion.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:31 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Ass,%20the%20Fox,%20&%20the%20Lion.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Astrologer.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:32 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Astrologer.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Bat & the Weasels.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:33 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Bat%20&%20the%20Weasels.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Bear & the Bees.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:34 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Bear%20&%20the%20Bees.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Bees & Wasps, & the Hornet.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:35 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Bees%20&%20Wasps,%20&%20the%20Hornet.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Birds, the Beasts, & the Bat.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:36 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Birds,%20the%20Beasts,%20&%20the%20Bat.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Boy & the Filberts.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:37 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Boy%20&%20the%20Filberts.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Boy & the Nettle.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:38 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Boy%20&%20the%20Nettle.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Boys & the Frogs.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:39 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Boys%20&%20the%20Frogs.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Bull & the Goat.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:40 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Bull%20&%20the%20Goat.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Bundle of Sticks.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:41 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Bundle%20of%20Sticks.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Cat & the Birds.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:42 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Cat%20&%20the%20Birds.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Cat & the Fox.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:43 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Cat%20&%20the%20Fox.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Cat & the Old Rat.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:44 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Cat%20&%20the%20Old%20Rat.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Cat, the Cock, and the Young Mouse.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:45 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Cat,%20the%20Cock,%20and%20the%20Young%20Mouse.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Cock & the Fox.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:46 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Cock%20&%20the%20Fox.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Cock & the Jewel.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:47 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Cock%20&%20the%20Jewel.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Crow & the Pitcher.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:48 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Crow%20&%20the%20Pitcher.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Dog & His Master's Dinner.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:49 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Dog%20&%20His%20Master's%20Dinner.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Dog & His Reflection.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:50 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Dog%20&%20His%20Reflection.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Dog & the Oyster.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:51 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Dog%20&%20the%20Oyster.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Dog in the Manger.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:52 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Dog%20in%20the%20Manger.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Dog, the Cock, & the Fox.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:53 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Dog,%20the%20Cock,%20&%20the%20Fox.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Dogs & and the Hides.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:54 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Dogs%20&%20and%20the%20Hides.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Dogs & the Fox.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:55 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Dogs%20&%20the%20Fox.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Eagle & the Beetle.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:56 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Eagle%20&%20the%20Beetle.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Eagle & the Jackdaw.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:57 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Eagle%20&%20the%20Jackdaw.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Eagle & the Kite.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:58 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Eagle%20&%20the%20Kite.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Farmer & His Sons.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:51:59 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Farmer%20&%20His%20Sons.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Farmer & the Cranes.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:00 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Farmer%20&%20the%20Cranes.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Farmer & the Snake.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:01 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Farmer%20&%20the%20Snake.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Farmer & the Stork.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:02 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Farmer%20&%20the%20Stork.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Fighting Bulls and the Frog.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:03 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Fighting%20Bulls%20and%20the%20Frog.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Fighting Cocks & the Eagle.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:04 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Fighting%20Cocks%20&%20the%20Eagle.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Fisherman & the Little Fish.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:05 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Fisherman%20&%20the%20Little%20Fish.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Flies & the Honey.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:06 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Flies%20&%20the%20Honey.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Fox & the Crab.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:07 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Fox%20&%20the%20Crab.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Fox & the Crow.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:08 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Fox%20&%20the%20Crow.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Fox & the Goat.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:09 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Fox%20&%20the%20Goat.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Fox & the Grapes.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:10 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Fox%20&%20the%20Grapes.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Fox & the Hedgehog.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:11 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Fox%20&%20the%20Hedgehog.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Fox & the Leopard.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:12 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Fox%20&%20the%20Leopard.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Fox & the Lion.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:13 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Fox%20&%20the%20Lion.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Fox & the Monkey.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:14 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Fox%20&%20the%20Monkey.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Fox & the Pheasants.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:15 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Fox%20&%20the%20Pheasants.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Fox & the Stork.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:16 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Fox%20&%20the%20Stork.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Fox Without a Tail.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:17 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Fox%20Without%20a%20Tail.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Frog & the Mouse.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:18 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Frog%20&%20the%20Mouse.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Frogs & the Ox.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:19 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Frogs%20&%20the%20Ox.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Frogs Who Wished for a King.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:20 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Frogs%20Who%20Wished%20for%20a%20King.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Gnat & the Bull.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:21 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Gnat%20&%20the%20Bull.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Goatherd & the Goat.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:22 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Goatherd%20&%20the%20Goat.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Goatherd & the Wild Goats.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:23 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Goatherd%20&%20the%20Wild%20Goats.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Goose & the Golden Egg.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:24 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Goose%20&%20the%20Golden%20Egg.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Hare & His Ears.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:25 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Hare%20&%20His%20Ears.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Hare & the Tortoise.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:26 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Hare%20&%20the%20Tortoise.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Hares & the Frogs.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:27 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Hares%20&%20the%20Frogs.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Heron.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:28 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Heron.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Kid & the Wolf.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:29 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Kid%20&%20the%20Wolf.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Lark & Her Young Ones.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:30 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Lark%20&%20Her%20Young%20Ones.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Leap at Rhodes.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:31 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Leap%20at%20Rhodes.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Lion & the Ass.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:32 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Lion%20&%20the%20Ass.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Lion & the Gnat.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:33 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Lion%20&%20the%20Gnat.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Lion & the Mouse.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:34 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Lion%20&%20the%20Mouse.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Lion's Share.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:35 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Lion's%20Share.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Lion, the Ass, & the Fox.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:36 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Lion,%20the%20Ass,%20&%20the%20Fox.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Lion, the Bear, & the Fox.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:37 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Lion,%20the%20Bear,%20&%20the%20Fox.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Man & the Lion.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:38 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Man%20&%20the%20Lion.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Man & the Satyr.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:39 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Man%20&%20the%20Satyr.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Mice & the Weasels.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:40 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Mice%20&%20the%20Weasels.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Milkmaid & Her Pail.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:41 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Milkmaid%20&%20Her%20Pail.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Miller, His Son, & the Ass.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:42 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Miller,%20His%20Son,%20&%20the%20Ass.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Mischievous Dog.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:43 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Mischievous%20Dog.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Miser.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:44 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Miser.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Mole & his Mother.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:45 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Mole%20&%20his%20Mother.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Monkey & the Camel.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:46 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Monkey%20&%20the%20Camel.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Monkey & the Cat.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:47 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Monkey%20&%20the%20Cat.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Monkey & the Dolphin.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:48 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Monkey%20&%20the%20Dolphin.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Mother & the Wolf.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:49 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Mother%20&%20the%20Wolf.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Mouse & the Weasel.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:50 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Mouse%20&%20the%20Weasel.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Mule.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:51 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Mule.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The North Wind & the Sun.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:52 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20North%20Wind%20&%20the%20Sun.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Oak & the Reeds.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:53 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Oak%20&%20the%20Reeds.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Old Lion & the Fox.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:54 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Old%20Lion%20&%20the%20Fox.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Old Lion.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:55 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Old%20Lion.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Owl & the Grasshopper.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:56 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Owl%20&%20the%20Grasshopper.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Oxen & the Wheels.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:57 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Oxen%20&%20the%20Wheels.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Peacock & the Crane.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:58 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Peacock%20&%20the%20Crane.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Peacock.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:52:59 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Peacock.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Plane Tree.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:53:00 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Plane%20Tree.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Porcupine & the Snakes.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:53:01 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Porcupine%20&%20the%20Snakes.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Quack Toad.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:53:02 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Quack%20Toad.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Rabbit, the Weasel & the Cat.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:53:03 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Rabbit,%20the%20Weasel%20&%20the%20Cat.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Rat & the Elephant.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:53:04 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Rat%20&%20the%20Elephant.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Rose & the Butterfly.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:53:05 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Rose%20&%20the%20Butterfly.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Serpent & the Eagle.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:53:06 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Serpent%20&%20the%20Eagle.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Sheep & the Pig.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:53:07 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Sheep%20&%20the%20Pig.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Shepherd & the Lion.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:53:08 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Shepherd%20&%20the%20Lion.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Shepherd Boy & the Wolf.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:53:09 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Shepherd%20Boy%20&%20the%20Wolf.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Sick Stag.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:53:10 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Sick%20Stag.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Spendthrift & the Swallow.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:53:11 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Spendthrift%20&%20the%20Swallow.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Stag & His Reflection.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:53:12 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Stag%20&%20His%20Reflection.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Stag, the Sheep, & the Wolf.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:53:13 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Stag,%20the%20Sheep,%20&%20the%20Wolf.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Swallow & the Crow.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:53:14 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Swallow%20&%20the%20Crow.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Tortoise & the Ducks.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:53:15 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Tortoise%20&%20the%20Ducks.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Town Mouse & the Country Mouse.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:53:16 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Town%20Mouse%20&%20the%20Country%20Mouse.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Travelers & the Purse.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:53:17 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Travelers%20&%20the%20Purse.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Travelers & the Sea.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:53:18 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Travelers%20&%20the%20Sea.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Two Goats.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:53:19 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Two%20Goats.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Two Pots.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:53:20 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Two%20Pots.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Vain Jackdaw & his Borrowed Feathers.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:53:21 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Vain%20Jackdaw%20&%20his%20Borrowed%20Feathers.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Wild Boar & the Fox.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:53:22 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Wild%20Boar%20&%20the%20Fox.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Wolf & His Shadow.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:53:23 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Wolf%20&%20His%20Shadow.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Wolf & the Ass.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:53:24 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Wolf%20&%20the%20Ass.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Wolf & the Crane.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:53:25 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Wolf%20&%20the%20Crane.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Wolf & the Goat.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:53:26 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Wolf%20&%20the%20Goat.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Wolf & the House Dog.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:53:27 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Wolf%20&%20the%20House%20Dog.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Wolf & the Kid.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:53:28 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Wolf%20&%20the%20Kid.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Wolf & the Lamb.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:53:29 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Wolf%20&%20the%20Lamb.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Wolf & the Lean Dog.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:53:30 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Wolf%20&%20the%20Lean%20Dog.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Wolf & the Lion.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:53:31 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Wolf%20&%20the%20Lion.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Wolf & the Sheep.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:53:32 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Wolf%20&%20the%20Sheep.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Wolf & the Shepherd.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:53:33 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Wolf%20&%20the%20Shepherd.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Wolf in Sheep's Clothing.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:53:34 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Wolf%20in%20Sheep's%20Clothing.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Wolf, the Kid, & the Goat.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:53:35 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Wolf,%20the%20Kid,%20&%20the%20Goat.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Wolves & the Sheep.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:53:36 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Wolves%20&%20the%20Sheep.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>The Young Crab & His Mother.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:53:37 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/The%20Young%20Crab%20&%20His%20Mother.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>Three Bullocks & a lion.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:53:38 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/Three%20Bullocks%20&%20a%20lion.wav"
+                 type="audio/wav"/>
+    </item>
+    
+    <item>
+      <title>Two Travelers & a Bear.wav</title>
+      <pubDate>Wed, 08 Feb 2023 07:53:39 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/faycheng/podcasts/main/aeso/aeso_raw/Two%20Travelers%20&%20a%20Bear.wav"
+                 type="audio/wav"/>
+    </item>
+    
+  </channel>
+</rss>
